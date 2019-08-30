@@ -1,10 +1,5 @@
 //https://www.hackerrank.com/challenges/java-stack/problem
 
-            /*
-             * Author: Samarth Bais
-             * GitHub; github.com/sb255
-             */
-
             //Complete the code
             Stack<Character> stack = new Stack<>();
             boolean balancedString = false; 

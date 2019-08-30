@@ -2,11 +2,6 @@
 
 import static java.lang.System.in;
 
-/*
- * Author: Samarth Bais
- * GitHub: github.com/sb255
- */
-
 class Prime {
     void checkPrime(int ... args){ 
         for(int i : args){

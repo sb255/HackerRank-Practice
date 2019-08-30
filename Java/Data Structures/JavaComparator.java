@@ -1,10 +1,5 @@
 //https://www.hackerrank.com/challenges/java-comparator/problem
 
-/*
- * Author: Samarth Bais
- * GitHub: github.com/sb255
- */
-
 // Write your Checker class here
 class Checker implements Comparator{
 

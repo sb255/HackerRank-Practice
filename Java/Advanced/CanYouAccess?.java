@@ -1,11 +1,5 @@
 //https://www.hackerrank.com/challenges/can-you-access/problem
 
-            
-            /*
-             * Author: Samarth Bais
-             * GitHub: github.com/sb255
-             */
-
 	    //Write your code here
             Solution.Inner ss = new Solution.Inner();
             o = ss.new Private(); 

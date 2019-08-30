@@ -1,10 +1,5 @@
 //https://www.hackerrank.com/challenges/java-bigdecimal/problem
 
-        /*
-         * Author: Samarth Bais
-         * GitHub: github.com/sb255
-         */
-
         //Write your code here
         //use n as the size of the String and ignore n+2
         String[] probString = new String[n];
