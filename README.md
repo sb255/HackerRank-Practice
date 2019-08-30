@@ -5,7 +5,7 @@
 
 # JAVA
 
-|  Subdomain |                                       Challenge Name     |                                                                                                Program File                                                                                                                                                				 		|
+|  Subdomain |                                       Challenge Name     |                                                                                                Program File |                                                                                                                                                				 		|
 |:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------:|
 |        Introduction   	  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java)                                               		 		| [WelcomeToJava.java]()                     				 		|															   
 |        Introduction         | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)                                		 		| [JavaStdinAndStdoutI.java]()           			 		| 														       
