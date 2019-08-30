@@ -1,2 +1,3 @@
-# HackerRank-Java
-Solved HackerRank website practice questions using Java programming language.
+<p align="center">
+  <img src=Vault/Heading.png  title="HackerRank">
+</p>
