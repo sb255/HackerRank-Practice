@@ -1,5 +1,7 @@
-<p align="center" href="https://www.hackerrank.com/samarthbais1">
-  <img src=Vault/Heading.png  title="HackerRank">
+<p align="center">
+  <a align="center" href="https://www.hackerrank.com/samarthbais1">
+    <img src=Vault/Heading.png  title="HackerRank">
+  </a>
 </p>
 
 
